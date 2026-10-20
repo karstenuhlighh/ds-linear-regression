@@ -2,6 +2,22 @@
 
 A hands-on introduction to linear regression for data science. You will fit simple and multiple regression models with scikit-learn and statsmodels, see where linear regression breaks down, and learn how to handle categorical predictors. The notebooks alternate between worked lessons and short exercises so you can practice each idea as you go.
 
+## Deutsche Fassung
+
+Alle Notebooks gibt es zusätzlich auf Deutsch, jeweils mit der Endung `_DE`. Übersetzt sind die Erklärtexte und Code-Kommentare. Code, Formeln und Daten sind unverändert. Die Übungen (3 und 5) sind leer, zum Selbstlösen.
+
+| Notebook | Deutsch |
+|---|---|
+| 1 Einfache lineare Regression (scikit-learn) | [1_simple_linear_regression_sklearn_DE.ipynb](1_simple_linear_regression_sklearn_DE.ipynb) |
+| 2 Grenzen der linearen Regression | [2_limitations_of_linear_regression_DE.ipynb](2_limitations_of_linear_regression_DE.ipynb) |
+| 3 Übung: einfache lineare Regression | [3_simple_linear_regression_exercise_DE.ipynb](3_simple_linear_regression_exercise_DE.ipynb) |
+| 4 Multiple lineare Regression (scikit-learn) | [4_multiple_linear_regression_sklearn_DE.ipynb](4_multiple_linear_regression_sklearn_DE.ipynb) |
+| 5 Übung: multiple lineare Regression | [5_multiple_linear_regression_exercise_DE.ipynb](5_multiple_linear_regression_exercise_DE.ipynb) |
+| 6 Kategoriale Variablen | [6_categorical_variables_DE.ipynb](6_categorical_variables_DE.ipynb) |
+| 7 Lineare Regression mit statsmodels | [7_linear_regression_statsmodels_DE.ipynb](7_linear_regression_statsmodels_DE.ipynb) |
+
+Die Übersetzung ist KI-gestützt (Claude) und nicht offiziell von neuefische. Bei Abweichungen gilt die englische Fassung. Lizenz: MIT, siehe [LICENSE](LICENSE).
+
 ## Learning Objectives
 
 By the end of this repository, you should be able to:
